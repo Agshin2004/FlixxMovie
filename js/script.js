@@ -228,7 +228,7 @@ async function displayShowDetails() {
   })()}
   </select>
 
-<iframe type="video/WEBM" src="https://vidsrc.to/embed/tv/${showIdFromRoute}/112" allowfullscreen="" width="850" height="550"> 
+<iframe type="video/WEBM" src="https://vidsrc.to/embed/tv/${showIdFromRoute}/1" allowfullscreen="" width="850" height="550"> 
 `
 
   document.querySelector('#show-details').appendChild(div);
